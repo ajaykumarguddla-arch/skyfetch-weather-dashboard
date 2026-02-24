@@ -1,3 +1,4 @@
+// Part 1 - API Integration Completed
 const apiKey = "b639d141a6f9e3ac2d9ebd0d18ea2c12";   // Replace with your real API key
 const cityName = "London";
 
